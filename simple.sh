@@ -1,1 +1,1 @@
-echo 'reverting to simple hello'
+echo 'hello'
