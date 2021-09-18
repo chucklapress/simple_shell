@@ -1,1 +1,1 @@
-echo 'let the music take control'
+echo 'generals gather in their masses'
