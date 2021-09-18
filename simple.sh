@@ -1,1 +1,1 @@
-echo 'generals gather in their masses'
+echo 'just like witches in black masses'
