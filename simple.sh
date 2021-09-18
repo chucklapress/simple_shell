@@ -1,1 +1,1 @@
-echo 'modified from work account'
+echo 'reverting to simple hello'
