@@ -1,1 +1,1 @@
-echo 'finally got somewhere with this'
+echo 'hello'
