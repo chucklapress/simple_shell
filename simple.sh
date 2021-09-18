@@ -1,1 +1,1 @@
-echo 'goodbye'
+echo 'everybody dance now'
