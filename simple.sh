@@ -1,1 +1,1 @@
-echo 'its late and im sad'
+echo 'hello goodbye'
