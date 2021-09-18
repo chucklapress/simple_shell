@@ -1,1 +1,1 @@
-echo 'everybody dance now'
+echo 'let the music take control'
