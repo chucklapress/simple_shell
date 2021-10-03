@@ -1,1 +1,1 @@
-echo 'hello, hello. I dont know why you say goodbye I say hello.'
+echo 'Modify the print statement to kick of Jenkins server'
