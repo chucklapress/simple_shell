@@ -1,2 +1,1 @@
-echo 'Modify the print statement to kick of Jenkins server'
-echo 'second line'
+echo 'removed second echo statement'
