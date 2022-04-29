@@ -1,4 +1,3 @@
-date
-date +"%"
-var=$(date)
-echo "$var"
+date +"%m-%d-%y"
+$USER
+whoami
