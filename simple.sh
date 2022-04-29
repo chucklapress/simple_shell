@@ -1,5 +1,4 @@
 date
-date +"%FORMAT"
+date +"%"
 var=$(date)
-var=`date`
 echo "$var"
