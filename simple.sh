@@ -1,1 +1,5 @@
-echo 'removed second echo statement'
+date
+date +"%FORMAT"
+var=$(date)
+var=`date`
+echo "$var"
